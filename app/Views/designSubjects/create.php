@@ -8,8 +8,8 @@
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-primary">
-            <h4 class="card-title">Edit Profile</h4>
-            <p class="card-category">Complete your profile</p>
+            <h4 class="card-title">Add Subhect</h4>
+            <p class="card-category">Complete your Subject</p>
           </div>
           <div class="card-body">
             <br>
