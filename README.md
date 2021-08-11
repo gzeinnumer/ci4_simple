@@ -14,6 +14,8 @@ http://localhost:8080/index.php/subjects/create
 ```
 ![](https://github.com/gzeinnumer/ci4_simple/blob/master/preview/example3.jpg)
 
+---
+
 #### With Design
 ```
 http://localhost:8080/index.php/
