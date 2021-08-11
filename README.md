@@ -29,3 +29,9 @@ http://localhost:8080/index.php/subjects/edit/17
 http://localhost:8080/index.php/subjects/create
 ```
 ![](https://github.com/gzeinnumer/ci4_simple/blob/master/preview/example6.jpg)
+
+---
+
+```
+Copyright 2021 M. Fadli Zein
+```
