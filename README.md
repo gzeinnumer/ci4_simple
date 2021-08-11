@@ -1,5 +1,8 @@
 # ci4_simple
 
+#### Database 
+[ci4_codeigniter4_crud_simple.sql](https://github.com/gzeinnumer/ci4_simple/blob/master/ci4_codeigniter4_crud_simple.sql)
+
 #### No Design
 ```
 http://localhost:8080/index.php/
