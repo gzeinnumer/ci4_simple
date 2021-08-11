@@ -16,8 +16,6 @@
    </div>
 <?php } ?>
 
-
-
 <?php $validation = \Config\Services::validation(); ?>
 <div class="row">
   <div class="col-md-12">
